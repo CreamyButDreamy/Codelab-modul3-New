@@ -38,3 +38,24 @@ public class KalkulatorSederhana {
         System.out.println("Hasil Pengurangan: " + hasilKurang);
     }
 }
+```
+
+## Cara Menjalankan:
+Buka Terminal atau Command Prompt di folder tempat Anda menyimpan file.
+
+Kompilasi file Java:
+
+``` java
+javac KalkulatorSederhana.java
+```
+
+Jalankan program:
+``` java
+java KalkulatorSederhana
+```
+
+Output yang akan tampil di konsol:
+``` java
+Hasil Penjumlahan: 15
+Hasil Pengurangan: 5
+```
